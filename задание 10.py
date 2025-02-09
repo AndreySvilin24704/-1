@@ -1,0 +1,7 @@
+fligt_number=input()
+company_name_rus=input()
+company_name_eng=input()
+city_rus=input()
+city_eng=input()
+print('Заканчивается посадка на рейс', fligt_number, company_name_rus, 'до', city_rus)
+print('This is the final boarding call for', company_name_eng, 'fligt', fligt_number, 'to',city_eng)  

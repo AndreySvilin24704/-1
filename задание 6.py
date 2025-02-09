@@ -1,0 +1,6 @@
+name=input()
+enthusiasm=input()
+print("Как Вас зовут?", name)
+print("Здравствуйте,", name)
+print("Что вам нравится?", enthusiasm)
+print("Отлично!", enthusiasm, "- хорошее увлечение.")
